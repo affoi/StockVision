@@ -21,7 +21,7 @@ A Streamlit-based web app that predicts **today's** and **tomorrow's** stock clo
 - yfinance
 
 ## 🖼️ Preview
-![App Screenshot](stock.jpg)
+![App Screenshot](scnsht1.png)
 
 ## 🕹️ Run Locally
 ```bash
